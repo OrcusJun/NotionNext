@@ -207,6 +207,7 @@ const BLOG = {
       name: '人间蜉蝣',
       artist: '未知音素 / 徐深',
       url: 'https://music.163.com/#/song?id=1808040375.mp3',
+      cover: 'https://th.bing.com/th/id/R.f0e2a0bdd94dcffb5458e982de453dde?rik=I5l0SvIJkqDUdg&riu=http%3a%2f%2ffile.niupiano.com%2f2022_3_10_15_33_34_1.jpg&ehk=3Uww%2bzAdYkux82iBmQQLsPYq6B6yO%2f8kyrCJdhFT%2bPI%3d&risl=&pid=ImgRaw&r=0.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
