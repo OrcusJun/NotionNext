@@ -303,7 +303,7 @@ const BLOG = {
 
   // <---- 评论插件
  utterances:
-  enable: true
+  enable: false
   repo: jakehu/jakehu.github.io
   issue_term: pathname
   theme: github-light
